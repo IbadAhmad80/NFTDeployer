@@ -105,14 +105,14 @@ const Title = styled.h1`
 `;
 const Subtitle = styled.h4`
    color: gray;
-   margin-top: 0;
    text-align: center;
+   margin: 10px 0 50px 0;
 `;
 const Container = styled.div`
    width: 90vw;
    max-width: 90vw;
    margin: auto;
-   margin-top: 100px;
+   margin-top: 50px;
 `;
 const Grid = styled.div`
    display: grid;
